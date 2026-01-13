@@ -1,2 +1,2 @@
-input ("whats your name")
-print ("hello, world")
+name = ("whats your name")
+print ("hello,", name)
